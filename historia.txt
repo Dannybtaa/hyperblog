@@ -1,7 +1,7 @@
-este es un archivo de texto plano
+este es un archivo de proyecto de texto  plano
 
-para hacer la tarea de platzi del curso git y git hub
+para hacer un proyecto de platzi del curso git y git hub
 
-listo 
+entonces realixo los cambios 
 
 besos
