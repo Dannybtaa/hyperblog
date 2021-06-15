@@ -1,7 +1,9 @@
-este es un archivo de proyecto de texto  plano
+este es un archivo de texto  plano
 
 para hacer un proyecto de platzi del curso git y git hub
 
-entonces realixo los cambios 
+entonces realizo los cambios, otro cambio por aca 
 
 besos
+
+este es otra line nueva para ver un cambio en el git
