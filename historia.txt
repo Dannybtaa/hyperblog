@@ -2,8 +2,7 @@ este es un archivo de texto  plano
 
 para hacer un proyecto de platzi del curso git y git hub
 
-entonces realizo los cambios, otro cambio por aca 
-
+entonces realizo los cambios, este es el cuarto cambio para ver otra cosita
 besos
 
 este es otra line nueva para ver un cambio en el git
