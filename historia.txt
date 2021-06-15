@@ -1,10 +1,7 @@
-este es un archivo de texto  plano
+este es un archivo de texto plano
 
-para hacer un proyecto de platzi del curso git y git hub
+para hacer la tarea de platzi del curso git y git hub
 
-entonces realizo los cambios, este es el cuarto cambio para ver otra cosita
+listo 
+
 besos
-
-este es otra line nueva para ver un cambio en el git
-
-cambio 5 para tener presente
