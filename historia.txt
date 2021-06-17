@@ -2,6 +2,8 @@ este es un archivo de texto plano
 
 para hacer la tarea de platzi del curso git y git hub
 
+ahora anita es una colaboradora
+
 listo 
 
 besos
